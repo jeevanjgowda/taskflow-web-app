@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Modern SaaS to-do list and task management dashboard with full CRUD operations, search, priority and status filtering, sorting, and overdue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
